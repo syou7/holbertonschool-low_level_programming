@@ -8,11 +8,11 @@
 int main(void)
 {
 char letter;
-char letter_uppercase;
+
 for (letter = 'a'; letter <= 'z'; letter++)
 putchar(letter);
-for (letter_uppercase = 'A' <= 'Z'; letter_uppercase++;)
-putchar(letter_uppercase);
+for (letter = 'A' <= 'Z'; letter++)
+putchar(letter);
 putchar('\n');
 return (0);
 }
