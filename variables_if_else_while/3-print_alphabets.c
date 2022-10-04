@@ -11,7 +11,7 @@ char letter;
 char letter_uppercase;
 for (letter = 'a'; letter <= 'z'; letter++)
 putchar(letter);
-for (letter = 'A'; letter_uppercase <= 'Z'; letter_uppercase++)
+for (letter_uppercase = 'A'; letter_uppercase <= 'Z'; letter_uppercase++)
 putchar(letter_uppercase);
 putchar('\n');
 return (0);
