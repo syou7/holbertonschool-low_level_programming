@@ -1,7 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
+/**
+ *main - determiner if the last digit is a variable 
+ *return 0 on success
+ */
 
 
 int main(void)
