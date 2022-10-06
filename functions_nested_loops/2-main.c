@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * main - print 10 time alphabet.
  *
  * Return: Always 0.
  */
